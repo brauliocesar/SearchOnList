@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>Liam</item>
+        <item>Noah </item>
+        <item>William </item>
+        <item>James </item>
+        <item>Oliver </item>
+        <item>Benjamin </item>
+        <item>Elijah </item>
+        <item>Lucas </item>
+        <item>Mason </item>
+        <item>Logan </item>
+        <item>Alexander </item>
+        <item>Ethan </item>
+        <item>Jacob </item>
+        <item>Michael </item>
+        <item>Daniel </item>
+        <item>Henry </item>
+        <item>Jackson </item>
+        <item>Sebastian </item>
+        <item>Aiden </item>
+        <item>Matthew </item>
+        <item>Samuel </item>
+        <item>David </item>
+        <item>Joseph </item>
+        <item>Carter </item>
+        <item>Owen </item>
+        <item>Wyatt </item>
+        <item>John </item>
+        <item>Jack </item>
+        <item>Luke </item>
+        <item>Jayden </item>
+        <item>Dylan </item>
+        <item>Grayson </item>
+        <item>Levi </item>
+        <item>Isaac </item>
+        <item>Gabriel </item>
+        <item>Julian </item>
+        <item>Mateo </item>
+        <item>Anthony </item>
+        <item>Jaxon </item>
+        <item>Lincoln </item>
+        <item>Joshua </item>
+        <item>Christopher</item>
+        <item>Andrew </item>
+        <item>Theodore </item>
+        <item>Caleb </item>
+        <item>Ryan </item>
+        <item>Asher </item>
+        <item>Nathan </item>
+        <item>Thomas </item>
+        <item>Leo </item>
+        <item>Isaiah </item>
+        <item>Charles </item>
+        <item>Josiah </item>
+        <item>Hudson </item>
+        <item>Christian </item>
+        <item>Hunter </item>
+        <item>Connor </item>
+        <item>Eli </item>
+        <item>Ezra </item>
+        <item>Aaron </item>
+        <item>Landon </item>
+        <item>Adrian </item>
+        <item>Jonathan </item>
+        <item>Nolan </item>
+        <item>Jeremiah </item>
+        <item>Easton </item>
+        <item>Elias </item>
+        <item>Colton </item>
+        <item>Cameron</item>
+    </string-array>
+
+</resources>
